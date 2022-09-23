@@ -33,6 +33,7 @@ def index():
         return redirect(url_for('index'))
     
     emailMessage = None
+    
     currEmail = session.get('email')
     
     if not currEmail:
