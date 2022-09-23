@@ -13,3 +13,8 @@ Commit 1: Added hello.py and reproduced example 2-1 that displays "Hello, World!
 
 Commit 2: Reproduced example 2-2 that displays "Hello, Abhinav! by using a dynamic route"
 ![](images/Activity2_2.png)
+
+**Activity 3**
+
+Commit: Implemented homepage present on the top bar, that displays my name, local time and the time since the page was rendered.
+![](images/Activity3.png)
